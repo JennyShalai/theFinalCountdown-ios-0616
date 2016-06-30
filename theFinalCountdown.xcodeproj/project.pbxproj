@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		00EE91AC746D227FCDD736C4 /* libPods-theFinalCountdownTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6CFA8838E49B049A55034506 /* libPods-theFinalCountdownTests.a */; };
-		4D55493F1BCC3BB9001E3D77 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D55493E1BCC3BB9001E3D77 /* Launch Screen.storyboard */; settings = {ASSET_TAGS = (); }; };
+		4D55493F1BCC3BB9001E3D77 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D55493E1BCC3BB9001E3D77 /* Launch Screen.storyboard */; };
 		D81E9F24196D666A00FFD46B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D81E9F23196D666A00FFD46B /* Foundation.framework */; };
 		D81E9F26196D666A00FFD46B /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D81E9F25196D666A00FFD46B /* CoreGraphics.framework */; };
 		D81E9F28196D666A00FFD46B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D81E9F27196D666A00FFD46B /* UIKit.framework */; };
@@ -132,9 +132,9 @@
 			children = (
 				D81E9F32196D666A00FFD46B /* FISAppDelegate.h */,
 				D81E9F33196D666A00FFD46B /* FISAppDelegate.m */,
-				D81E9F35196D666A00FFD46B /* Main.storyboard */,
 				D81E9F38196D666A00FFD46B /* FISViewController.h */,
 				D81E9F39196D666A00FFD46B /* FISViewController.m */,
+				D81E9F35196D666A00FFD46B /* Main.storyboard */,
 				D81E9F3B196D666A00FFD46B /* Images.xcassets */,
 				4D55493E1BCC3BB9001E3D77 /* Launch Screen.storyboard */,
 				D81E9F2A196D666A00FFD46B /* Supporting Files */,
